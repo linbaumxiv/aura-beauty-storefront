@@ -2,7 +2,7 @@
 A sleek, responsive e-commerce storefront landing page designed for a boutique beauty brand. This project showcases a modern UI with a focus on product presentation and user experience.
 
 ### 🚀 Live Demo
-link goes here- 
+https://linbaumxiv.github.io/aura-beauty-storefront/
 
 ### ✨ Features
 Responsive Grid: Fully fluid layout using Bootstrap 5's grid system, optimized for mobile, tablet, and desktop.
